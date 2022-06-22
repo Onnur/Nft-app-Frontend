@@ -1,3 +1,8 @@
+Live version: https://digikongnft.com
+
+(https://i.gyazo.com/60b26a9f63bbdbde654c89b450b8119f.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
