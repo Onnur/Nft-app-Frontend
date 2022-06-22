@@ -1,0 +1,9 @@
+* Installerat 2 fonts
+
+* Installerar TypewriterJS v2
+
+* Skapat en mp4 video klipp för ett par NFT bilder av DigiKong
+
+* Skapat vector för linjen under "Roadmap" med Figma
+
+* Installerat React-confetti för "Team" sidan
