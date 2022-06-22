@@ -1,6 +1,6 @@
 Live version: https://digikongnft.com
 
-(https://i.gyazo.com/60b26a9f63bbdbde654c89b450b8119f.png)
+![alt text](https://i.gyazo.com/60b26a9f63bbdbde654c89b450b8119f.png)
 
 
 # Getting Started with Create React App
